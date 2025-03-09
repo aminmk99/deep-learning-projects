@@ -50,3 +50,4 @@ model = Sequential([
     Dense(64, activation='relu', kernel_regularizer=l2(0.01), input_shape=(10,)),
     Dense(1, activation='sigmoid')
 ])
+test
