@@ -4,7 +4,6 @@ When working with labeled datasets, it's often useful to inspect the label distr
 
 Here’s how to do it using `numpy`:
 
----
 
 #### ✅ Get the Unique Class Labels
 
