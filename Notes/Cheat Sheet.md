@@ -1,4 +1,4 @@
-# 🧠Deep Learning Cheat Sheet: "When to Use What
+# 🧠Deep Learning Cheat Sheet: "When to Use What"
 <br><br>
 
 | Concept                          | When to Use It                                                                           |                             Why                              |
